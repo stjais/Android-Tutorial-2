@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Find Friend</string>
+
+
+    <!--app permission string-->
+    <string name="app_permission_dialog_title">Need Multiple Permissions</string>
+    <string name="app_permission_dialog_details">This app needs Network, and Location Access Permissions.</string>
+    <string name="app_permission_go_to_settings">Go to Permissions to Grant Network and Location Access Permissions.</string>
+    <string name="app_permission_error">Unable to get Permissions</string>
+
+    <string name="name">Name</string>
+    <string name="hint_name">Firstname Lastname</string>
+    <string name="mobile_number">Mobile No.</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hint_mobile_number">10 digits mobile no.</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="submit">Submit</string>
+    <string name="find">Find</string>
+
+    <string name="str_message">Message</string>
+    <string name="str_alert_message">Alert Message</string>
+    <string name="str_error_message">Error Message</string>
+    <string name="str_connection_error_message">Connection Error - </string>
+    <string name="str_unknown_error_message">Something went wrong please contact admin for support.</string>
+    <string name="str_network_error_message">Please check your internet connection and try again.</string>
+
+</resources>
